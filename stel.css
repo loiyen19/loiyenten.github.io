@@ -1,0 +1,487 @@
+body{
+    padding: 0;
+    margin: 0;
+    position: relative;
+    width: 1440px;
+    height: 4207px;
+    background: linear-gradient(0deg, #303030, #303030), linear-gradient(0deg, #303030, #303030), linear-gradient(0deg, #303030, #303030), #303030;
+}
+h1{
+    font-family:verdana;
+    position: absolute;
+width: 500px;
+height: 45px;
+left: 108px;
+top: 233px;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 45px;
+letter-spacing: 0.03em;
+text-transform: capitalize;
+color: #0BA824;
+
+}
+h2{
+    position: absolute;
+width: 822px;
+height: 207px;
+left: 108px;
+top: 291px;
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height: 69px;
+text-transform: capitalize;
+color: #F5F5F5;
+
+}
+
+P{
+    position: absolute;
+width: 450px;
+height: 164px;
+left: 108px;
+top: 500px;
+font-family:verdana;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+color: lightgrey;
+
+
+
+}
+.container1{
+    position: absolute;
+width: 355px;
+height: 530px;
+left: 907px;
+top: 225px;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #62615E;
+}
+.container1 img{
+    position: absolute;
+    width: 428px;
+    height: 473px;
+    left: -45px;
+    top: 50px;
+    
+    background: url(design-a9900498-7df1-4b5b-8201-34b971e0a848.png);
+}
+.container2{
+    box-sizing: border-box;
+position: absolute;
+width: 150px;
+height: 115px;
+left: 912px;
+top: 120px;
+border: 2px solid #07A603;
+transform: rotate(-132.77deg);
+}
+.container3{
+    box-sizing: border-box;
+position: absolute;
+width: 64.65px;
+height: 70.97px;
+left: 1222.9px;
+top: 294.2px;
+border: 1px solid #01B409;
+transform: rotate(-132.77deg);
+}
+.container4{
+    box-sizing: border-box;
+position: absolute;
+width: 179px;
+height: 220px;
+left: 680px;
+top: 456.09px;
+border: 2px solid #04DA00;
+filter: blur(2px);
+transform: rotate(-23.75deg);
+}
+.wa{
+    position: absolute;
+width: 0px;
+height: 39px;
+left: 113px;
+top: 710px;
+}
+.instagram{
+    position: absolute;
+    width: 245.17px;
+    height: 40.98px;
+    left: 300px;
+    top: 710px;
+}
+h3{
+    position: absolute;
+width: 228px;
+height: 69px;
+left: 121px;
+top: 900px;
+font-family: verdana;
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height: 69px;
+text-transform: capitalize;
+color: #F5F5F5;
+
+}
+.proj1{
+    position: absolute;
+width: 1215px;
+height: 467px;
+left: 113px;
+top: 1000px;
+background: #D9D9D9;
+
+}
+.view {
+    position: absolute;
+width: 190px;
+height: 39px;
+left: 113px;
+top: 1500px;
+
+}
+.container5{
+    position: absolute;
+width: 1215px;
+height: 140px;
+left: 113px;
+top: 1600px;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(93.81deg, #62605E 19.88%, rgba(98, 96, 94, 0) 98.52%);
+}
+h4{
+    position: absolute;
+width: 1215px;
+height: 140px;
+left: 113px;
+top: 50px;
+color: #F5F5F5;
+}
+.see{
+    position: absolute;
+width: 173px;
+height: 50px;
+left: 910px;
+top: 50px;
+}
+.email{
+    position: absolute;
+width: 173px;
+height: 50px;
+left: 1090px;
+top: 50px;
+
+}
+.container6{
+    box-sizing: border-box;
+position: absolute;
+width: 288px;
+height: 257px;
+left: 113px;
+top: 1900px;
+border: 1px solid #FFFFFF;
+}
+.container6 img{
+    position: absolute;
+width: 343px;
+height: 332px;
+left: 10px;
+top: -75px;
+}
+h5{
+    position: absolute;
+width: 690px;
+height: 136px;
+left: 588px;
+top: 1840px;
+font-family: verdana;
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 69px;
+text-transform: capitalize;
+color: #F5F5F5;
+
+}
+.deskrip{
+    position: absolute;
+width: 450px;
+height: 98px;
+left: 487px;
+top: 1500px;
+font-family: verdana;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+}
+.link img{
+    position: absolute;
+width: 24px;
+height: 24px;
+left: 592px;
+top: 2100px;
+
+}
+.link  p{
+    position: absolute;
+width: 450px;
+height: 98px;
+left: 625px;
+top: 2100px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+}
+h6{
+    position: absolute;
+width: 380px;
+height: 75px;
+left: 592px;
+top: 2300px;
+font-family: verdana;
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height: 69px;
+text-align: center;
+text-transform: capitalize;
+color: #FFFFFF;
+}
+.row{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 208px;
+    top: 2500px;
+    padding-left: 20px;
+  }
+ .container7{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 208px;
+    top: 2500px; 
+  }
+ .tag1 img{
+    position: absolute;
+width: 200px;
+height: 200px;
+left: -50px;
+top: 0px;
+ }
+ .tag1 p{
+    position: absolute;
+width: 214px;
+height: 116px;
+left: -50px;
+top: 250px;
+font-family: verdana;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+ }
+ .tag2 img{
+    position: absolute;
+width: 200px;
+height: 200px;
+left: 450px;
+
+ }
+.tag2 p{
+    position: absolute;
+width: 214px;
+height: 116px;
+left: 450px;
+top: 250px;
+
+font-family: verdana;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+}
+.tag3 img{
+position: absolute;
+width: 200px;
+height: 200px;
+left: 950px;
+top: 0px;
+
+}
+.tag3 p{
+    position: absolute;
+width: 214px;
+height: 116px;
+left: 950px;
+top: 250px;
+font-family: verdana;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+}
+
+.container7{
+    position: absolute;
+width: 1461px;
+height: 283px;
+left: 1px;
+top: 3009px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(253.44deg, #62605E 27.67%, rgba(98, 97, 94, 0) 75.47%); 
+}
+.skil p{
+    position: absolute;
+width: 318px;
+height: 75px;
+left: 618px;
+top: 3385px;
+
+font-family: verdana;
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height: 69px;
+text-align: center;
+text-transform: capitalize;
+
+color: #FFFFFF;
+
+}
+.skil1 img{
+    position: absolute;
+left: 280px;
+top: 3520px;
+}
+.skil2 img{
+    position: absolute;
+left: 683px;
+top: 3520px;
+
+}
+.skil3 img{
+        position: absolute;
+
+    left: 1000px;
+    top: 3520px;
+
+}
+.container8{
+    position: absolute;
+width: 1461px;
+height: 361px;
+left: -12px;
+top: 3861px;
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), linear-gradient(0deg, #303030, #303030), linear-gradient(0deg, #303030, #303030), linear-gradient(0deg, #303030, #303030), #303030;
+
+}
+.container8 p{
+    position: absolute;
+width: 318px;
+height: 75px;
+left: 80px;
+top: 0px;
+font-family: verdana;
+font-style: normal;
+font-weight: 400;
+font-size: 46px;
+line-height: 69px;
+text-align: center;
+text-transform: capitalize;
+color: #FFFFFF;
+}
+.info p{
+    position: absolute;
+width: 305px;
+height: 20px;
+left: 100px;
+top: 100px;
+font-family: verdana;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+text-transform: capitalize;
+
+}
+.kir{
+    position: absolute;
+width: 245.17px;
+height: 40.98px;
+left: 114px;
+top: 4058px;
+}
+.mot img{
+    position: absolute;
+width: 628px;
+height: 577px;
+left: 138px;
+top: 2715px;
+
+background: url(IMG20210601063444-removebg-preview.png);
+}
+.container7 p{
+    position: absolute;
+width: 622px;
+height: 204px;
+left: 689px;
+top: 100px;
+font-family: verdana;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+}
+.container9{
+    box-sizing: border-box;
+position: absolute;
+width: 300px;
+height: 390px;
+left: 314px;
+top: 2932px;
+border: 5px solid #0BA824;
+}
+.container10{
+    box-sizing: border-box;
+position: absolute;
+width: 155px;
+height: 164px;
+left: 140px;
+top: 3093px;
+border: 5px solid #0BA824;
+filter: blur(3.5px);
+}
+.container11{
+    box-sizing: border-box;
+position: absolute;
+width: 126.91px;
+height: 84.98px;
+left: 881.86px;
+top: 2936.35px;
+border: 5px solid #0BA824;
+filter: blur(2px);
+transform: rotate(-21.42deg);
+}
+@media screen and (max-width: 922px){
+    .content{
+        width: 100%;
+    }
+}
